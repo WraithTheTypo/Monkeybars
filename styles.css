@@ -1,0 +1,13 @@
+/* Place your CSS styles in this file */
+header{
+background-color: #143B66;
+height: 60px;
+text-align: center;
+justify-content: center;
+align-items: center;
+}
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
